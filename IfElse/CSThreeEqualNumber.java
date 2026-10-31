@@ -1,3 +1,4 @@
+package IfElse;
 public class CSThreeEqualNumber {
     public static void main(String[] args) {
 

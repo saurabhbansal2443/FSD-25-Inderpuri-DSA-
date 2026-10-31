@@ -1,3 +1,4 @@
+package IfElse;
 public class CSYoungestAge {
     public static void main(String[] args) {
         // If the ages of Ram, Shyam and Ajay are input through 

@@ -1,3 +1,4 @@
+package IfElse;
 public class CSUpperLowerCase {
     public static void main(String[] args) {
         // Write a program to check whether a

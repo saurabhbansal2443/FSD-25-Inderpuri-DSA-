@@ -1,3 +1,4 @@
+package IfElse;
 public class CSMultipleOfFive {
     public static void main(String[] args) {
         // Write a Java program to check whether

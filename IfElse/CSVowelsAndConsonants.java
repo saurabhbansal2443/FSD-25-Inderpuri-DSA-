@@ -1,3 +1,4 @@
+package IfElse;
 public class CSVowelsAndConsonants {
     public static void main(String[] args) {
         // You are given a charcter tell weather it is vowel or consonant

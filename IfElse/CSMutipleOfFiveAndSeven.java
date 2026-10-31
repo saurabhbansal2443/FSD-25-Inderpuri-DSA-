@@ -1,3 +1,4 @@
+package IfElse;
 public class CSMutipleOfFiveAndSeven {
     public static void main(String[] args) {
         // Write a Java program to check whether the given integer is a multiple of 5

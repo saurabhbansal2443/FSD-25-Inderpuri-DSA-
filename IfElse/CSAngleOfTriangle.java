@@ -1,3 +1,4 @@
+package IfElse;
 public class CSAngleOfTriangle {
     public static void main(String[] args) {
         // Write a program to input all angles of a triangle and check whether it is

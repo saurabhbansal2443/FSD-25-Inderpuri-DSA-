@@ -1,3 +1,4 @@
+package IfElse;
 public class CSMaximumOfThreeNumber {
     public static void main(String[] args) {
         // You are given 3 number find the maximum between them

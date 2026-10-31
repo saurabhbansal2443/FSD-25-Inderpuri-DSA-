@@ -1,3 +1,4 @@
+package IfElse;
 public class CSMarksOfStudent {
     public static void main(String[] args) {
         // Write a program to input marks of five subjects Physics, Chemistry, Biology,
